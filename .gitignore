@@ -92,3 +92,6 @@ target/
 # Mypy cache
 .mypy_cache/
 *.joblib
+
+# DVC local config where some secrets are written
+.dvc/config.local
